@@ -1,3 +1,13 @@
+call plug#begin()
+
+Plug 'bling/vim-airline'
+Plug 'dracula/vim'
+
+call plug#end()
+
+" Color scheme.
+colorscheme dracula
+
 " Turn syntax highlighting on.
 syntax on
 
