@@ -2,6 +2,7 @@ call plug#begin()
 
 Plug 'bling/vim-airline'
 Plug 'dracula/vim'
+Plug 'scrooloose/nerdtree'
 
 call plug#end()
 
